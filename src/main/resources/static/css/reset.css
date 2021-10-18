@@ -1,0 +1,19 @@
+*{margin: 0; padding: 0;}
+ul,li{list-style: none;}
+a{text-decoration: none; color: black;}
+
+*{margin: 0; padding: 0;}
+ul,li{list-style: none;}
+a{text-decoration: none; color: black;}
+
+header,footer,section{
+    max-width: 1080px;
+    height: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.ham-wrap{
+    max-width: 1080px;
+    height: 1000px;
+}
